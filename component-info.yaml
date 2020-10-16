@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-react-backstage
+  description: This is demoing the scaffolder from backstage
+spec:
+  type: website
+  lifecycle: experimental
+  owner: gesparza3
